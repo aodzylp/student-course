@@ -3,7 +3,7 @@ Learn &amp; do
 
 # Installation
 - Clone git this Repository.
-- เปิด command line cd เข้าไปที่โฟล์เดอร์ project เรา หลังจากนั้นพิมพ์ "composser install" แล้วกด Enter
+- เปิด command line cd เข้าไปที่โฟล์เดอร์ project เรา หลังจากนั้นพิมพ์ "composer install" แล้วกด Enter
 - สร้างไฟล์ .env และทำการ config ไฟล์ให้ตรงกับสภาพแวดล้อมของเรา (database, server) หากไม่เข้าใจอ่านคู่มือที่ https://laravel.com/docs/5.7/installation
 - สร้างฐานข้อมูล โดยชื่อฐานข้อมูลต้องตรงกับชื่อฐานข้อมูลในไฟล์ .env ที่เราเพิ่งทำเมื่อกี้
 - เปิด command line ขึ้นมาอีกครั้ง และพิมพ์คำสั่ง "php artisan key:generate" แล้วกด Enter
